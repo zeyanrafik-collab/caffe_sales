@@ -1,8 +1,8 @@
 # coffee_sales
-Cafe Sales Data Cleaning, Exploratory Data Analysis (EDA), and Visualization using Python, Pandas, NumPy, Matplotlib, and Seaborn.         
+Cofee Sales Data Cleaning, Exploratory Data Analysis (EDA), and Visualization using Python, Pandas, NumPy, Matplotlib, and Seaborn.         
 # Coffee Sales Data Analysis | Python & Jupyter Notebook
 
-This project focuses on cleaning, exploring, and visualizing cafe sales data using Python in Jupyter Notebook.
+This project focuses on cleaning, exploring, and visualizing cofee sales data using Python in Jupyter Notebook.
 
 The dataset was processed using **Pandas and NumPy** to improve data quality, handle missing values, identify inconsistencies, and prepare the data for meaningful analysis.
 
